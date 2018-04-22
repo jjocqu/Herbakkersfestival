@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run open",
     "open": "concurrently \"http-server -a localhost -p 1234\" \"open http://localhost:1234/build\""
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jjocqu/Herbakkersfestival.git"
