@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url("../../images/img_bg-login.jpg");
+	background-repeat: no-repeat;
+	font-family: 'Asap', Arial, sans-serif;
+}
+
+main{
+	width: 50%;
+}
+
+header{
+	padding: 1% 2% 2% 2%;
+	background-color: #30adc1;
+	height: 15px;
+	color: #fff;
+	text-align: center;
+}
+
+h1{
+	font-size: 30px;
+	font-weight: 400;	
+}
+
+header span{
+	font-weight: 700;
+}
+
+#wrapper{
+	width: 80%;
+    margin: 0 auto;
+    margin-top: 6%;
+}
+
+#drinksBox{
+	float: left;
+	margin-top: -0.5%;
+}
+
+#drinksBox img{
+	width:100%;
+
+}
+
+#drinksBox table{
+	border-spacing: 15px;
+}
+
+#drinksBox table td button{
+	padding: 15px;
+	background-color: #434343;
+	border-radius: 5px;
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+	border: none;
+	width: 150px;
+	height: 150px;
+}
+
+#totalBox{
+	float: right;
+	max-height: 660px;
+	width: 700px;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+}
+
+#totalBox h2{
+	width: 679px;
+	height: 50px;
+	background-color: #30adc1;
+	text-align: center;
+	color: #fff;
+	line-height: 1.5em;
+	padding: 2% 2% 0% 1%;
+	border-radius: 5px 5px 0px 0px;
+}
+
+#totalBox h3{
+	margin-top: 450px;
+	width: 689px;
+	height: 25px;
+	padding: 1.5% 1% 0% 0.5%;
+	background-color: #30adc1;
+	border-radius: 0px 0px 5px 5px;
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 0.8em;
+}
+
+.drinkList{
+	margin-left: 5%;
+	margin-top: 3%;
+	font-size: 23px;
+	color: #fff;
+}
+
+.drinkList ul li{
+	padding-bottom: 1%;
+}
+
+.drinkList .deleteItem{
+	margin-right: 2%;
+	width: 20px;
+	height:20px;
+	border: none;
+	background-color: transparent;
+	color: #30adc1;
+	font-weight: 700;
+	font-size: 23px;
+	-webkit-text-stroke: 0.5px #fff;
+}
+
+.right{
+	float: right;
+	width: 80%;
+	margin-top: -5%;
+	font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
