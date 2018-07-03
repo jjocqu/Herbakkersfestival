@@ -1,1 +1,5 @@
+.idea/
+backend/client/lib/angular/.bower.json
+backend/client/lib/
+node_modules/.bin/
 node_modules/
