@@ -50,6 +50,46 @@ VALUES 	('Coca cola', 2),
         ('Cava', 4);
 
 
-    
-    
-    
+INSERT INTO stock (user_id, drink_name, amount)
+VALUES 	(2, 'Coca cola', 0),
+		(2, 'Cola zero', 0),
+        (2, 'Fanta', 0),
+        (2, 'Chaudfontainte blauw', 0),
+        (2, 'Chaudfontainte rood', 0),
+        (2, 'Minute maid', 0),
+        (2, 'Baptist', 0),
+        (2, 'Augustijn', 0),
+        (2, 'Kriek', 0),
+        (2, 'Witte wijn', 0),
+        (2, 'Rode wijn', 0),
+        (2, 'Cava', 0);
+
+
+INSERT INTO stock (user_id, drink_name, amount)
+VALUES 	(3, 'Coca cola', 0),
+		(3, 'Cola zero', 0),
+        (3, 'Fanta', 0),
+        (3, 'Chaudfontainte blauw', 0),
+        (3, 'Chaudfontainte rood', 0),
+        (3, 'Minute maid', 0),
+        (3, 'Baptist', 0),
+        (3, 'Augustijn', 0),
+        (3, 'Kriek', 0),
+        (3, 'Witte wijn', 0),
+        (3, 'Rode wijn', 0),
+        (3, 'Cava', 0);
+
+
+INSERT INTO stock (user_id, drink_name, amount)
+VALUES 	(4, 'Coca cola', 0),
+		(4, 'Cola zero', 0),
+        (4, 'Fanta', 0),
+        (4, 'Chaudfontainte blauw', 0),
+        (4, 'Chaudfontainte rood', 0),
+        (4, 'Minute maid', 0),
+        (4, 'Baptist', 0),
+        (4, 'Augustijn', 0),
+        (4, 'Kriek', 0),
+        (4, 'Witte wijn', 0),
+        (4, 'Rode wijn', 0),
+        (4, 'Cava', 0);
