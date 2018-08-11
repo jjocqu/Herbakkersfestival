@@ -1,0 +1,24 @@
+{
+  "name": "herbakkers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run open",
+    "open": "concurrently \"http-server -a localhost -p 1234\" \"open http://localhost:1234/build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjocqu/Herbakkersfestival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjocqu/Herbakkersfestival/issues"
+  },
+  "homepage": "https://github.com/jjocqu/Herbakkersfestival#readme",
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "http-server": "^0.11.1"
+  }
+}
